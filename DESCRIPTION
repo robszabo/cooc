@@ -1,0 +1,10 @@
+Package: Cooc
+Title: Cooc test package
+Version: 0.1
+Authors@R: person("Robert", "Szabo", email = "robert.szabo@medius.se",
+                  role = c("aut", "cre"))
+Description: This is a test package.
+Depends: R (>= 3.1.0)
+License: file LICENSE
+LazyData: true
+RoxygenNote: 6.0.1
